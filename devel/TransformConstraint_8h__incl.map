@@ -1,0 +1,17 @@
+<map id="TransformConstraint.h" name="TransformConstraint.h">
+<area shape="rect" id="node2" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="717,229,911,256"/>
+<area shape="rect" id="node26" href="$InverseKinematics_8h.html" title="iDynTree/InverseKinematics.h" alt="" coords="1039,80,1255,107"/>
+<area shape="rect" id="node3" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="897,304,1078,331"/>
+<area shape="rect" id="node21" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="607,379,789,405"/>
+<area shape="rect" id="node24" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="455,528,669,555"/>
+<area shape="rect" id="node4" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="897,453,1105,480"/>
+<area shape="rect" id="node5" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="216,528,431,555"/>
+<area shape="rect" id="node6" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="112,603,271,629"/>
+<area shape="rect" id="node9" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="691,603,852,629"/>
+<area shape="rect" id="node22" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="217,453,435,480"/>
+<area shape="rect" id="node23" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="561,453,771,480"/>
+<area shape="rect" id="node28" href="$ConvexHullHelpers_8h.html" title="iDynTree/ConvexHullHelpers.h" alt="" coords="1037,155,1257,181"/>
+<area shape="rect" id="node31" href="$Direction_8h.html" title="iDynTree/Core/Direction.h" alt="" coords="5,453,193,480"/>
+<area shape="rect" id="node29" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="1152,304,1375,331"/>
+<area shape="rect" id="node30" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="896,528,1119,555"/>
+</map>

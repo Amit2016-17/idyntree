@@ -1,0 +1,33 @@
+<map id="SimpleLeggedOdometry.cpp" name="SimpleLeggedOdometry.cpp">
+<area shape="rect" id="node2" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="512,244,727,271"/>
+<area shape="rect" id="node30" href="$SimpleLeggedOdometry_8h.html" title="iDynTree/Estimation\l/SimpleLeggedOdometry.h" alt="" coords="1544,80,1737,121"/>
+<area shape="rect" id="node31" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="2573,408,2757,435"/>
+<area shape="rect" id="node46" href="$ForwardKinematics_8h.html" title="iDynTree/Model/ForwardKinematics.h" alt="" coords="2757,169,3020,196"/>
+<area shape="rect" id="node47" href="$ModelTransformers_8h.html" title="Collection of function to modify model in various ways. " alt="" coords="2141,87,2404,114"/>
+<area shape="rect" id="node48" href="$ModelLoader_8h.html" title="iDynTree/ModelIO/ModelLoader.h" alt="" coords="1831,87,2066,114"/>
+<area shape="rect" id="node4" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="229,326,452,353"/>
+<area shape="rect" id="node15" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="539,721,753,748"/>
+<area shape="rect" id="node16" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="475,796,633,823"/>
+<area shape="rect" id="node20" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="1492,557,1715,584"/>
+<area shape="rect" id="node21" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="908,721,1123,748"/>
+<area shape="rect" id="node23" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="927,319,1133,360"/>
+<area shape="rect" id="node28" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="705,319,902,360"/>
+<area shape="rect" id="node29" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1274,408,1469,435"/>
+<area shape="rect" id="node5" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="289,796,451,823"/>
+<area shape="rect" id="node24" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="880,639,1097,666"/>
+<area shape="rect" id="node25" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="779,408,993,435"/>
+<area shape="rect" id="node26" href="$Position_8h.html" title="Position.h" alt="" coords="1229,483,1316,509"/>
+<area shape="rect" id="node27" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1032,557,1215,584"/>
+<area shape="rect" id="node33" href="$Model_8h.html" title="iDynTree/Model/Model.h" alt="" coords="1909,244,2087,271"/>
+<area shape="rect" id="node39" href="$Traversal_8h.html" title="iDynTree/Model/Traversal.h" alt="" coords="2110,326,2307,353"/>
+<area shape="rect" id="node40" href="$JointState_8h.html" title="iDynTree/Model/JointState.h" alt="" coords="287,244,488,271"/>
+<area shape="rect" id="node41" href="$LinkState_8h.html" title="iDynTree/Model/LinkState.h" alt="" coords="1189,169,1388,196"/>
+<area shape="rect" id="node34" href="$IJoint_8h.html" title="iDynTree/Model/IJoint.h" alt="" coords="2483,326,2654,353"/>
+<area shape="rect" id="node35" href="$Link_8h.html" title="iDynTree/Model/Link.h" alt="" coords="2678,326,2843,353"/>
+<area shape="rect" id="node36" href="$SolidShapes_8h.html" title="iDynTree/Model/SolidShapes.h" alt="" coords="1868,326,2085,353"/>
+<area shape="rect" id="node42" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="953,244,1115,271"/>
+<area shape="rect" id="node43" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="1139,244,1337,271"/>
+<area shape="rect" id="node44" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="751,244,928,271"/>
+<area shape="rect" id="node45" href="$ArticulatedBodyInertia_8h.html" title="iDynTree/Core/Articulated\lBodyInertia.h" alt="" coords="1477,632,1665,673"/>
+<area shape="rect" id="node49" href="$Sensors_8h.html" title="iDynTree/Sensors/Sensors.h" alt="" coords="1729,169,1931,196"/>
+</map>
